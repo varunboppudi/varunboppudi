@@ -1,4 +1,4 @@
-# Hi, I'm Pranith! 👋
+# Hi, I'm Varun! 👋
 
 ## 🛠 Skills
 
