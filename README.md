@@ -4,9 +4,7 @@
 
 - Languages:
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+ 
 - Frontend:
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -44,6 +42,6 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/klu_2100031104?theme=dark)](https://leetcode.com/klu_2100031104/)
 
 ## 📫 Connect with Me
-- GitHub: [kottipranith](https://github.com/varunboppudi)
-- LinkedIn: [Pranith Kotti](https://www.linkedin.com/in/boppudi-varun-495276227/)
-- LeetCode: [klu_2100031054](https://leetcode.com/klu_2100031104/)
+- GitHub: [Varun Boppudi](https://github.com/varunboppudi)
+- LinkedIn: [Varun Boppudi](https://www.linkedin.com/in/boppudi-varun-495276227/)
+- LeetCode: [klu_2100031104](https://leetcode.com/klu_2100031104/)
